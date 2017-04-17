@@ -1,5 +1,5 @@
 {
-  "name": "build-message-webpack",
+  "name": "@practo/build-message-webpack",
   "version": "1.0.0",
   "description": "Prints out a message when webpack is about to compile assets",
   "main": "index.js",
