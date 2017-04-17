@@ -1,0 +1,31 @@
+{
+  "name": "build-message-webpack",
+  "version": "1.0.0",
+  "description": "Prints out a message when webpack is about to compile assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/practo/build-msg-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "message",
+    "build",
+    "message",
+    "assets",
+    "compile",
+    "javascript"
+  ],
+  "author": "Deven Vyas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/practo/build-msg-webpack/issues"
+  },
+  "homepage": "https://github.com/practo/build-msg-webpack#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
